@@ -13,9 +13,7 @@
         include "./header.php";
     ?>
     <main>
-    <?php 
-        echo "<h1>Topp 10 filmer</h1><br>En lista av topp 10 bästa filmerna under 2018";
-    ?>
+    <h1>Här kan du se 10 bästa filmerna under år 2018.</h1>
     </main>
      <div class="whitespace">
     </div>

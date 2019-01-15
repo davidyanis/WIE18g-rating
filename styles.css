@@ -3,7 +3,9 @@ body {
     font-family: helvetica;
     display: flex;
     justify-content: center;
-    background-image: url("buildings.jpg");
+    background-image: url("avengers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .body-centered {

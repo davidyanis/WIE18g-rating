@@ -12,9 +12,9 @@
             <?php
             include "./header.php";
             ?>
-            <h1>Sho mitt namn är David jag kommer från en håla i Sverige som heter Malmö</h1>
-            <div class="whitespace">
-            </div>
+            <h3>David</h3>
+            <h3>073123456</h3>
+            <h3>Utvecklargatan 12</h3>
             <?php
             include "./footer.php";
             ?>
