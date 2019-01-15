@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: helvetica;
+    display: flex;
+    justify-content: center;
+    background-image: url("buildings.jpg");
+}
+
+.body-centered {
+   width: 60em;
+   background-color: #fff;
+}
+
+ul {
+    background-color: #000;
+    height: 10em!important;
+    margin: 0;
+    padding-top: 3em;
+}
+
+ul li a {
+    color: #5A8AB2;
+    text-decoration: none;
+    font-family: helvetica;
+}
+
+li {
+    list-style-type: none;
+}
+
+main {
+    padding: 2em;
+}
+
+footer {
+    height: 5em;
+    background-color: #03346C;
+    padding: 3em;
+}
+
+.whitespace {
+    height: 22em;
+}
+
+.title {
+    color: #fff;
+}
+
+select {
+    font-size: 1.4em;
+}
+
+button {
+    font-size: 1.2em;
+    padding: 0.4em;
+    background-color: #03346C;
+    color: #fff;
+    border-radius: 0.3em;
+}
