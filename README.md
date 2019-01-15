@@ -1,7 +1,8 @@
-# PHP
+# Purpose
 
 ```
 Select movie and get description to display on another site.
 ```
+# Demo
 
-https://davidyanis.github.io/WIE18g-rating/
+davidyan.se
