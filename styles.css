@@ -23,9 +23,17 @@ ul li a {
     text-decoration: none;
     font-family: helvetica;
 }
+ul li a:hover {
+    color: #fff;
+}
 
 li {
     list-style-type: none;
+}
+
+h4 {
+    margin-top: 2em;
+    padding: 2em;
 }
 
 main {
@@ -56,4 +64,14 @@ button {
     background-color: #03346C;
     color: #fff;
     border-radius: 0.3em;
+}
+
+.breadcrumb {
+    display: flex;
+}
+
+.breadcrumb li a {
+    color: #333;
+    margin-left: 0.4em;
+    text-decoration: none;
 }

@@ -15,12 +15,12 @@
             ?>
             <main>
             <h3>Välj film</h3>
-            <form method="POST" action="./details.php">
+            <form method="post" action="./details.php">
                 <select name="movieList">
                     <option value="Fast and furious">Fast and furious</option>
-                    <option value="JR">Jack Reacher</option>
-                    <option value="BW">Bay Watch</option>
-                    <option value="JL">Justice League</option>
+                    <option value="Jack Reacher">Jr</option>
+                    <option value="Bay Watch">Bay Watch</option>
+                    <option value="Justice League">Justice League</option>
                     <option value="Avengers">Avengers</option>
                 </select>
                 <button type="submit" name="submit">Se beskrivning -></button>
